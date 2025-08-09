@@ -1,2 +1,16 @@
+# macOS
+.DS_Store
+
+# Go build artifacts
 *.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Project binary (macOS build output)
+Go-DiscordBotTester
+
+# Environment files
 *.env
